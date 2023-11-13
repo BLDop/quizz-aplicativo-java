@@ -1,72 +1,75 @@
-// creating an array and passing the number, questions, options, and answers
-let questions = [
-  {
-    numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
-    options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
-    ]
-  },
-  {
-    numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
-    options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
-    ]
-  },
-  {
-    numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
-    options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
-    ]
-  },
-  {
-    numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
-    options: [
-      "12",
-      "11",
-      "14",
-      "13"
-    ]
-  },
-  {
-    numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
-    options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
-    ]
-  },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
+// ...
 
-  //   {
-  //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
-  //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
-  //   ]
-  // },
-];
+{
+  numb: 8,
+  question: "Qual é a capital do Japão?",
+  answer: "Tóquio",
+  options: [
+    "Pequim",
+    "Seul",
+    "Tóquio",
+    "Bangcoc"
+  ]
+},
+
+{
+  numb: 9,
+  question: "Em que ano a Declaração de Independência dos Estados Unidos foi assinada?",
+  answer: "1776",
+  options: [
+    "1789",
+    "1801",
+    "1776",
+    "1792"
+  ]
+},
+
+{
+  numb: 10,
+  question: "Quem é conhecido como o pai da computação?",
+  answer: "Alan Turing",
+  options: [
+    "Bill Gates",
+    "Steve Jobs",
+    "Ada Lovelace",
+    "Alan Turing"
+  ]
+},
+
+{
+  numb: 11,
+  question: "Qual é o maior oceano do mundo?",
+  answer: "Oceano Pacífico",
+  options: [
+    "Oceano Atlântico",
+    "Oceano Índico",
+    "Oceano Ártico",
+    "Oceano Pacífico"
+  ]
+},
+
+{
+  numb: 12,
+  question: "Quantos continentes existem?",
+  answer: "7",
+  options: [
+    "5",
+    "6",
+    "7",
+    "8"
+  ]
+},
+
+{
+  numb: 13,
+  question: "Quem foi o primeiro presidente dos Estados Unidos?",
+  answer: "George Washington",
+  options: [
+    "Thomas Jefferson",
+    "Abraham Lincoln",
+    "George Washington",
+    "John Adams"
+  ]
+},
+
+// ...
